@@ -8,14 +8,14 @@ Hey {}
 
 Welcome to {}
 
-I'm a **𝕿𝖊𝖑𝖊𝖌𝖗𝖆.𝖕𝖍-𝖀𝖕𝖑𝖔𝖆𝖉𝖊𝖗 𝕭𝖔𝖙**
+I'm a **NIGHT VISSION TELEGRAP UPLOADER BOT**
 I can upload media to telegra.ph and give you back the link with ease. Try sending multiple media, and it still won't stop me.
 I can also be used in groups !!
 
 To see `Supported Media Types` tap the related button below.
 Use the other buttons to know more about me and my usage.
 
-By @ImDark_Empire
+By @NA_VA_N_JA_NA1
     """
 
     # Help Message
@@ -38,28 +38,28 @@ That is,
 
 __Note__ : If the bot doesn't respond in the expected way, make the bot admin so that bot gets updates for sure. Telegram is weird.
 
-More features in development. Keep track by joining @ImDark_Empire.
+More features in development. Keep track by joining @NA_VA_N_JA_NA1.
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @SLBotOfficial
+Bot created by @NightVission
 
-Source Code : [Click Here](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader)
+Source coad : [Click here](https://github.com/Captainamarica/NightVissio.-TELEGRAPH)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @ImDark_Empire
+Developer : @NA_VA_N_JA_NA1
 
-Support : @trtechguide
+Support : @NightVission
     """
 
     SUPPORTED_MEDIA_TYPES = """
-✨ **SUPPORTED MEDIA TYPES** ✨
+ **SUPPORTED MEDIA TYPES** 
 
 1) Image
 2) Sticker
@@ -73,28 +73,28 @@ Note : Telegraph has a size limit of 5 MB.
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/SLBotOfficial/28")],
-        [InlineKeyboardButton("♾️ Supported Media Types ♾️", callback_data="supported_media_types"),InlineKeyboardButton("Dev", url="https://t.me/ImDark_Empire")],
-        [InlineKeyboardButton("Close 🌐", callback_data="close")],
-        [InlineKeyboardButton(text="🏛️ Return Home 🏛️", callback_data="home")],
+        [InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/NightVission/20")],
+        [InlineKeyboardButton(" Supported Media Types ", callback_data="supported_media_types"),InlineKeyboardButton("Dev", url="https://t.me/NA_VA_N_JA_NA1")],
+        [InlineKeyboardButton("Close ", callback_data="close")],
+        [InlineKeyboardButton(text=" Return Home ", callback_data="home")],
     ]
 
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/SLBotOfficial/28")
+            InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/NightVission/20")
         ],
-        [InlineKeyboardButton("♾️ Supported Media Types ♾️", callback_data="supported_media_types"),InlineKeyboardButton("Dev", url="https://t.me/ImDark_Empire")],
+        [InlineKeyboardButton(" Supported Media Types ", callback_data="supported_media_types"),InlineKeyboardButton("Dev", url="https://t.me/NA_VA_N_JA_NA1")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("📥 About 📥", callback_data="about")
+            InlineKeyboardButton("How to Use ", callback_data="help"),
+            InlineKeyboardButton(" About ", callback_data="about")
         ],
-        [InlineKeyboardButton("Close 🌐", callback_data="close")]
+        [InlineKeyboardButton("Close ", callback_data="close")]
     ]
 
     # Supported Media Buttons
     supported_media_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/SLBotOfficial/28"),InlineKeyboardButton("Dev", url="https://t.me/ImDark_Empire")],
-        [InlineKeyboardButton("Close 🌐", callback_data="close")],
-        [InlineKeyboardButton(text="🏛️ Return Home 🏛️", callback_data="home")]
+        [InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/NightVission/20"),InlineKeyboardButton("Dev", url="https://t.me/NA_VA_N_JA_NA1")],
+        [InlineKeyboardButton("Close ", callback_data="close")],
+        [InlineKeyboardButton(text=" Return Home ", callback_data="home")]
     ]
