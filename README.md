@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us !
 
-<p align="center"><a href="https://www.github.com/DARKEMPIRESL/Telegra.ph-Uploader"><img src="https://te.legra.ph/file/1395fa7ced5043e3a3dcf.jpg" width="5000"></a></p>
+<p align="center"><a href="https://github.com/Captainamarica/NightVissio.-TELEGRAPH"><img src="https://telegra.ph/file/554341d5c7e0d0dcd2daf.jpg" width="5000"></a></p>
 
 Telegram bot to upload media to telegra.ph
 
@@ -12,7 +12,7 @@ Telegram bot to upload media to telegra.ph
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESL/Telegra.ph-Uploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainamarica/NightVissio.-TELEGRAPH)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to upload media to telegra.ph
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/DARKEMPIRESL/Telegra.ph-Uploader
+   git clone https://github.com/Captainamarica/NightVissio.-TELEGRAPH
    ```
 
 2. Edit `Config.py` and fill the needed variables
@@ -71,42 +71,19 @@ Upload one of the below supported media type to Telegra.ph
 6) Video Note
 7) Document (Video/Photo/Gif)
 
-## To-Do
-
-> That's on you mainly...
-
-## Stats
-
-[![GitHub forks](https://img.shields.io/github/forks/DARKEMPIRESL/Telegra.ph-Uploader.svg?style=social&label=Fork&maxAge=25920000)](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader/network/) [![GitHub stars](https://img.shields.io/github/stars/DARKEMPIRESL/Telegra.ph-Uploader.svg?style=social&label=Star&maxAge=25920000)](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/DARKEMPIRESL/Telegra.ph-Uploader.svg?style=social&label=Watch&maxAge=25920000)](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader/watchers/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader/graphs/commit-activity)
 
 ## License
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-## Contributing
-
-[![GitHub contributors](https://img.shields.io/github/contributors/DARKEMPIRESL/Telegra.ph-Uploader.svg)](https://github.com/DARKEMPIRESL/Telegra.ph-Uploader/graphs/contributors/)
-
-> Contributions are heartily accepted.
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Credits
 
 - [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
-- [𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://t.me/ImDark_Empire) - ``Dev``
+- [NAVANJANA](https://t.me/NA_VA_N_JA_NA1) - ``Dev``
 
 ## Support
 
-Channel :- [@Team SL Bots🇱🇰](https://t.me/SLBotOfficial)
+Channel :- [@NIGHT VISSION BOTS🇱🇰](https://t.me/NightVission)
 
-Group Chat :- [@TR TECH GUIDE | SL Bots🇱🇰](https://t.me/trtechguide)
-
-## :)
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DARKEMPIRESL)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/DARKEMPIRESL)
+Group Chat :- [@NIGHT VISSION SUPPORT🇱🇰](https://t.me/NightVissionSupport)
