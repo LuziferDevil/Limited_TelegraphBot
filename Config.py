@@ -21,9 +21,9 @@ if ENVIRONMENT:
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
+    API_ID = 18703157
+    API_HASH = "3cf67a8a786c82767c718dc3107d8ebf"
+    BOT_TOKEN = "5510002953:AAESLo8ZQ2LwoOKbIBPaW5fZIJBSskyCbuM"
     DATABASE_URL = ""
-    MUST_JOIN = ""
-    OWNER_ID = 0
+    MUST_JOIN = "https://t.me/limitedtgbots"
+    OWNER_ID = 5129159742
