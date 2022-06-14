@@ -8,14 +8,14 @@ Hey {}
 
 Welcome to {}
 
-I'm a **NIGHT VISSION TELEGRAP UPLOADER BOT**
+I'm a **LIMITED TELEGRAP UPLOADER BOT**
 I can upload media to telegra.ph and give you back the link with ease. Try sending multiple media, and it still won't stop me.
 I can also be used in groups !!
 
 To see `Supported Media Types` tap the related button below.
 Use the other buttons to know more about me and my usage.
 
-By @NA_VA_N_JA_NA1
+By @luziferdevil
     """
 
     # Help Message
@@ -38,14 +38,14 @@ That is,
 
 __Note__ : If the bot doesn't respond in the expected way, make the bot admin so that bot gets updates for sure. Telegram is weird.
 
-More features in development. Keep track by joining @NA_VA_N_JA_NA1.
+More features in development. Keep track by joining @limitedtgbots.
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @NightVission
+Bot created by : [Click here](https://t.me/limitedtgbots)
 
 Source coad : [Click here](https://github.com/Captainamarica/NightVissio.-TELEGRAPH)
 
@@ -53,9 +53,9 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @NA_VA_N_JA_NA1
+Developer : [Click here](https://t.me/luziferdevil)
 
-Support : @NightVission
+Support : [Click here](https://t.me/limitedtgbots)
     """
 
     SUPPORTED_MEDIA_TYPES = """
@@ -73,8 +73,8 @@ Note : Telegraph has a size limit of 5 MB.
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/NightVission/20")],
-        [InlineKeyboardButton(" Supported Media Types ", callback_data="supported_media_types"),InlineKeyboardButton("Dev", url="https://t.me/NA_VA_N_JA_NA1")],
+        [InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/limitedtgbots")],
+        [InlineKeyboardButton(" Supported Media Types ", callback_data="supported_media_types"),InlineKeyboardButton("Dev", url="https://t.me/luziferdevil")],
         [InlineKeyboardButton("Close ", callback_data="close")],
         [InlineKeyboardButton(text=" Return Home ", callback_data="home")],
     ]
@@ -82,7 +82,7 @@ Note : Telegraph has a size limit of 5 MB.
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/NightVission/20")
+            InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/limitedtgbots")
         ],
         [InlineKeyboardButton(" Supported Media Types ", callback_data="supported_media_types"),InlineKeyboardButton("Dev", url="https://t.me/NA_VA_N_JA_NA1")],
         [
@@ -94,7 +94,7 @@ Note : Telegraph has a size limit of 5 MB.
 
     # Supported Media Buttons
     supported_media_buttons = [
-        [InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/NightVission/20"),InlineKeyboardButton("Dev", url="https://t.me/NA_VA_N_JA_NA1")],
+        [InlineKeyboardButton(" Bot Status and More Bots ", url="https://t.me/limitedtgbots"),InlineKeyboardButton("Dev", url="https://t.me/luziferdevil")],
         [InlineKeyboardButton("Close ", callback_data="close")],
         [InlineKeyboardButton(text=" Return Home ", callback_data="home")]
     ]
